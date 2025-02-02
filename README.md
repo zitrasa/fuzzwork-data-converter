@@ -1,4 +1,4 @@
-# EVEI-Data-Converter
+# Fuzzwork Data Converter
 The intended use of this project is converting [EVE Online](https://www.eveonline.com) SDE (Static Data Export), created by [FuzzWork](https://www.fuzzwork.co.uk/dump/latest/), to the format, conveniently usable by my EVEI project. Maybe, you will find it usable too. You can find examples of prepared CSVs in `prepared/` folder.
 
 ## Usage
